@@ -1,4 +1,3 @@
-## Date: 23 May, 2015
 ## For Programming Assignment #2
 
 ## Function: MakeCacheMatrix
